@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "country-data": "^0.0.31",
+    "fs": "^0.0.1-security",
+    "supervillains": "^3.0.0"
+  },
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "This project is about introducton to node javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malik Waqas",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "1-operatingsystemmodules",
+  "version": "1.0.0",
+  "description": "This project is about featuring Operating System Module in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malik Waqas",
+  "license": "ISC"
+}
